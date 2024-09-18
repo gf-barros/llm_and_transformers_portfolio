@@ -1,6 +1,6 @@
-# Project Name
+# LLM and Transformers Portfolio
 
-A brief description of your project and its purpose.
+This is my practice repository for text applications and Transformers.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -20,8 +20,8 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/gf-barros/simple_sciml_template.git
-    cd simple_sciml_template
+    git clone https://github.com/gf-barros/llm_and_transformers_portfolio.git
+    cd llm_and_transformers_portfolio
     ```
 
 2. Install dependencies using `make`:
@@ -29,9 +29,9 @@ To set up the project locally, follow these steps:
     make install
     ```
 
-3. Activate the conda environment (change the name accordingly in `Makefile`:
+3. Activate the conda environment:
     ```bash
-    conda activate <env-name>
+    conda activate llm_and_transformers_portfolio
     ```
 
 4. Install Python packages:
